@@ -1,2 +1,2 @@
 # store-repo
-Some description here.
+Some description here!
